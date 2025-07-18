@@ -75,10 +75,6 @@ padding-bottom: 3.5rem;
 border-radius: 60px 20px 60px 20px ;
 
 }
-.shadow{
-    position: absolute;
-    box-shadow: 0 0 1100px 100px white;
-}
 .Home{
     position: relative;
     display: flex;
